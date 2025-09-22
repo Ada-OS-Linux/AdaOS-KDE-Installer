@@ -106,7 +106,7 @@ All actions are logged to:
 
 ## 📜 License
 
-MIT License.  
+GNU General Public License v3.0.  
 Feel free to adapt this script for your own distro, but credit AdaOS if you reuse the branding.
 
 ---
