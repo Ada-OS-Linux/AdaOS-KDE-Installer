@@ -26,7 +26,7 @@ It supports minimal, standard, and full KDE profiles, and lets you choose which 
 
 ### 1. Clone or download
 ```bash
-git clone https://github.com/YOUR-USERNAME/adaos-kde-installer.git
+git clone https://github.com/Ada-OS-Linux//adaos-kde-installer.git
 cd adaos-kde-installer
 ```
 
